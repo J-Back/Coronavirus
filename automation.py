@@ -50,8 +50,6 @@ def parse():
         try:
             listInformation = BeautifulSoup(requests.get(link['URL']).text, 'html.parser').find('div', id='article-body').find('ul').find_all('li')
 
-            print(listInformation[0].text)
-
             if 'Deadliest' in listInformation[0].text.split():
                 CITY = {
                     'STATE': link['STATE'],
