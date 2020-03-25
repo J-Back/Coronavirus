@@ -30,7 +30,7 @@ def GetData():
 	return data
 
 def Main():
-	data = GetData().rename(columns = {'Province_State': 'State', 'Admin2': 'County'})[['State', 'County', 'Confirmed', 'Recovered', 'Deaths']].sort_values(by = 'State', ascending = True).to_csv('data.csv')
+	GetData().rename(columns = {'Province_State': 'State', 'Admin2': 'County'})[['State', 'County', 'Confirmed', 'Recovered', 'Deaths']].sort_values(by = 'State', ascending = True).to_csv('data.csv')
 
 if __name__ == '__main__':
 	Main()
