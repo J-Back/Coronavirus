@@ -1,0 +1,463 @@
+,STATE,COUNTRY,COUNT,DEATHS,DATE
+0,Alabama,Autauga County,30,1,2020-04-21
+1,Alabama,Baldwin County,120,3,2020-04-21
+2,Alabama,Barbour County,24,0,2020-04-21
+3,Alabama,Bibb County,31,0,2020-04-21
+4,Alabama,Blount County,25,0,2020-04-21
+5,Alabama,Bullock County,11,0,2020-04-21
+6,Alabama,Butler County,14,0,2020-04-21
+7,Alabama,Calhoun County,82,3,2020-04-21
+8,Alabama,Chambers County,257,15,2020-04-21
+9,Alabama,Cherokee County,13,0,2020-04-21
+10,Alabama,Chilton County,44,0,2020-04-21
+11,Alabama,Choctaw County,18,0,2020-04-21
+12,Alabama,Clarke County,24,1,2020-04-21
+13,Alabama,Clay County,19,0,2020-04-21
+14,Alabama,Cleburne County,12,1,2020-04-21
+15,Alabama,Coffee County,65,1,2020-04-21
+16,Alabama,Colbert County,16,1,2020-04-21
+17,Alabama,Conecuh County,9,0,2020-04-21
+18,Alabama,Coosa County,23,1,2020-04-21
+19,Alabama,Covington County,26,0,2020-04-21
+20,Alabama,Crenshaw County,6,0,2020-04-21
+21,Alabama,Cullman County,44,0,2020-04-21
+22,Alabama,Dale County,21,0,2020-04-21
+23,Alabama,Dallas County,28,2,2020-04-21
+24,Alabama,DeKalb County,47,2,2020-04-21
+25,Alabama,Elmore County,73,1,2020-04-21
+26,Alabama,Escambia County,16,0,2020-04-21
+27,Alabama,Etowah County,103,8,2020-04-21
+28,Alabama,Fayette County,4,0,2020-04-21
+29,Alabama,Franklin County,18,0,2020-04-21
+30,Alabama,Geneva County,4,0,2020-04-21
+31,Alabama,Greene County,32,0,2020-04-21
+32,Alabama,Hale County,33,1,2020-04-21
+33,Alabama,Henry County,18,0,2020-04-21
+34,Alabama,Houston County,71,3,2020-04-21
+35,Alabama,Jackson County,41,2,2020-04-21
+36,Alabama,Jefferson County,693,26,2020-04-21
+37,Alabama,Lamar County,9,0,2020-04-21
+38,Alabama,Lauderdale County,24,4,2020-04-21
+39,Alabama,Lawrence County,10,0,2020-04-21
+40,Alabama,Lee County,319,18,2020-04-21
+41,Alabama,Limestone County,40,0,2020-04-21
+42,Alabama,Lowndes County,32,0,2020-04-21
+43,Alabama,Macon County,26,2,2020-04-21
+44,Alabama,Madison County,202,4,2020-04-21
+45,Alabama,Marengo County,31,2,2020-04-21
+46,Alabama,Marion County,65,5,2020-04-21
+47,Alabama,Marshall County,175,4,2020-04-21
+48,Alabama,Mobile County,710,36,2020-04-21
+49,Alabama,Monroe County,9,1,2020-04-21
+50,Alabama,Montgomery County,243,3,2020-04-21
+51,Alabama,Morgan County,51,0,2020-04-21
+52,Alabama,Perry County,9,0,2020-04-21
+53,Alabama,Pickens County,42,0,2020-04-21
+54,Alabama,Pike County,43,0,2020-04-21
+55,Alabama,Randolph County,58,3,2020-04-21
+56,Alabama,Russell County,48,0,2020-04-21
+57,Alabama,St. Clair County,58,0,2020-04-21
+58,Alabama,Shelby County,274,6,2020-04-21
+59,Alabama,Sumter County,43,0,2020-04-21
+60,Alabama,Talladega County,47,2,2020-04-21
+61,Alabama,Tallapoosa County,198,12,2020-04-21
+62,Alabama,Tuscaloosa County,157,1,2020-04-21
+63,Alabama,Walker County,91,0,2020-04-21
+64,Alabama,Washington County,17,1,2020-04-21
+65,Alabama,Wilcox County,49,1,2020-04-21
+66,Alabama,Winston County,9,0,2020-04-21
+67,Alabama,Unknown or Out of State County,0,0,2020-04-21
+68,Connecticut,Fairfield,8320,512,2020-04-21
+69,Connecticut,Windham,108,2,2020-04-21
+70,Connecticut,Tolland,299,27,2020-04-21
+71,Connecticut,New London,356,13,2020-04-21
+72,Connecticut,New Haven,5272,301,2020-04-21
+73,Connecticut,Middlesex,484,45,2020-04-21
+74,Connecticut,Litchfield,639,58,2020-04-21
+75,Connecticut,Hartford,3823,369,2020-04-21
+76,Florida,Gilchrist,4,0,2020-04-21
+77,Florida,Putnam,58,1,2020-04-21
+78,Florida,Taylor,2,0,2020-04-21
+79,Florida,Okaloosa,134,3,2020-04-21
+80,Florida,Calhoun,6,0,2020-04-21
+81,Florida,Palm Beach,2296,126,2020-04-21
+82,Florida,St. Lucie,204,15,2020-04-21
+83,Florida,Pasco,211,3,2020-04-21
+84,Florida,Gadsden,57,0,2020-04-21
+85,Florida,Leon,185,1,2020-04-21
+86,Florida,Jefferson,26,1,2020-04-21
+87,Florida,Madison,25,1,2020-04-21
+88,Florida,Liberty,2,0,2020-04-21
+89,Florida,Hamilton,3,0,2020-04-21
+90,Florida,Bay,58,2,2020-04-21
+91,Florida,Columbia,42,0,2020-04-21
+92,Florida,Baker,17,3,2020-04-21
+93,Florida,Holmes,8,0,2020-04-21
+94,Florida,Martin,156,4,2020-04-21
+95,Florida,Hillsborough,977,19,2020-04-21
+96,Florida,Manatee,437,34,2020-04-21
+97,Florida,Clay,252,11,2020-04-21
+98,Florida,Hardee,4,0,2020-04-21
+99,Florida,Marion,130,3,2020-04-21
+100,Florida,Volusia,356,10,2020-04-21
+101,Florida,Dixie,4,0,2020-04-21
+102,Florida,Lake,213,7,2020-04-21
+103,Florida,Levy,12,0,2020-04-21
+104,Florida,Sumter,153,11,2020-04-21
+105,Florida,Seminole,328,5,2020-04-21
+106,Florida,Orange,1222,27,2020-04-21
+107,Florida,Citrus,92,8,2020-04-21
+108,Florida,Hernando,85,3,2020-04-21
+109,Florida,Pinellas,611,17,2020-04-21
+110,Florida,Suwannee,102,8,2020-04-21
+111,Florida,Duval,901,16,2020-04-21
+112,Florida,Lafayette,1,0,2020-04-21
+113,Florida,Gulf,1,0,2020-04-21
+114,Florida,Union,2,0,2020-04-21
+115,Florida,Bradford,42,2,2020-04-21
+116,Florida,Wakulla,15,1,2020-04-21
+117,Florida,Brevard,223,7,2020-04-21
+118,Florida,Polk,351,14,2020-04-21
+119,Florida,Osceola,416,5,2020-04-21
+120,Florida,Highlands,71,7,2020-04-21
+121,Florida,Lee,789,29,2020-04-21
+122,Florida,Collier,473,9,2020-04-21
+123,Florida,Dade,9840,227,2020-04-21
+124,Florida,Monroe,73,3,2020-04-21
+125,Florida,Santa Rosa,141,6,2020-04-21
+126,Florida,Walton,32,0,2020-04-21
+127,Florida,Jackson,10,0,2020-04-21
+128,Florida,Washington,8,0,2020-04-21
+129,Florida,Nassau,46,0,2020-04-21
+130,Florida,Glades,5,1,2020-04-21
+131,Florida,Charlotte,143,11,2020-04-21
+132,Florida,Sarasota,296,28,2020-04-21
+133,Florida,Desoto,24,4,2020-04-21
+134,Florida,Flagler,77,2,2020-04-21
+135,Florida,Hendry,44,1,2020-04-21
+136,Florida,Indian River,85,4,2020-04-21
+137,Florida,Broward,4149,126,2020-04-21
+138,Florida,Escambia,337,9,2020-04-21
+139,Florida,Okeechobee,7,0,2020-04-21
+140,Florida,Franklin,2,0,2020-04-21
+141,Florida,Alachua,223,0,2020-04-21
+142,Florida,St. Johns,193,4,2020-04-21
+143,Florida,Unknown,3,0,2020-04-21
+144,Georgia,Fulton,2208 ,82 ,2020-04-21
+145,Georgia,Dekalb,1534 ,29 ,2020-04-21
+146,Georgia,Dougherty,1446 ,103 ,2020-04-21
+147,Georgia,Gwinnett,1222 ,42 ,2020-04-21
+148,Georgia,Cobb,1215 ,59 ,2020-04-21
+149,Georgia,Hall,720 ,9 ,2020-04-21
+150,Georgia,Clayton,546 ,20 ,2020-04-21
+151,Georgia,Henry,384 ,11 ,2020-04-21
+152,Georgia,Sumter,333 ,18 ,2020-04-21
+153,Georgia,Cherokee,322 ,10 ,2020-04-21
+154,Georgia,Carroll,307 ,11 ,2020-04-21
+155,Georgia,Richmond,295 ,12 ,2020-04-21
+156,Georgia,Lee,277 ,17 ,2020-04-21
+157,Georgia,Bartow,256 ,24 ,2020-04-21
+158,Georgia,Douglas,244 ,7 ,2020-04-21
+159,Georgia,Muscogee,234 ,4 ,2020-04-21
+160,Georgia,Mitchell,214 ,23 ,2020-04-21
+161,Georgia,Forsyth,213 ,8 ,2020-04-21
+162,Georgia,Bibb,203 ,2 ,2020-04-21
+163,Georgia,Chatham,185 ,6 ,2020-04-21
+164,Georgia,Houston,185 ,12 ,2020-04-21
+165,Georgia,Upson,179 ,11 ,2020-04-21
+166,Georgia,Early,173 ,10 ,2020-04-21
+167,Georgia,Coweta,170 ,4 ,2020-04-21
+168,Georgia,Terrell,156 ,18 ,2020-04-21
+169,Georgia,Colquitt,154 ,5 ,2020-04-21
+170,Georgia,Randolph,146 ,16 ,2020-04-21
+171,Georgia,Fayette,144 ,8 ,2020-04-21
+172,Georgia,Paulding,143 ,7 ,2020-04-21
+173,Georgia,Rockdale,140 ,6 ,2020-04-21
+174,Georgia,Newton,139 ,4 ,2020-04-21
+175,Georgia,Spalding,136 ,7 ,2020-04-21
+176,Georgia,Thomas,133 ,14 ,2020-04-21
+177,Georgia,Baldwin,132 ,4 ,2020-04-21
+178,Georgia,Worth,129 ,8 ,2020-04-21
+179,Georgia,Floyd,127 ,9 ,2020-04-21
+180,Georgia,Crisp,125 ,2 ,2020-04-21
+181,Georgia,Columbia,120 ,2 ,2020-04-21
+182,Georgia,Clarke,114 ,13 ,2020-04-21
+183,Georgia,Habersham,107 ,2 ,2020-04-21
+184,Georgia,Lowndes,105 ,3 ,2020-04-21
+185,Georgia,Troup,105 ,4 ,2020-04-21
+186,Georgia,Barrow,99 ,3 ,2020-04-21
+187,Georgia,Tift,93 ,4 ,2020-04-21
+188,Georgia,Ware,92 ,7 ,2020-04-21
+189,Georgia,Coffee,83 ,4 ,2020-04-21
+190,Georgia,Butts,82 ,2 ,2020-04-21
+191,Georgia,Dooly,73 ,5 ,2020-04-21
+192,Georgia,Gordon,66 ,6 ,2020-04-21
+193,Georgia,Walton,64 ,3 ,2020-04-21
+194,Georgia,Calhoun,61 ,2 ,2020-04-21
+195,Georgia,Decatur,59 ,1 ,2020-04-21
+196,Georgia,Turner,59 ,4 ,2020-04-21
+197,Georgia,Jackson,56 ,1 ,2020-04-21
+198,Georgia,Macon,55 ,1 ,2020-04-21
+199,Georgia,Oconee,53 ,0 ,2020-04-21
+200,Georgia,Burke,51 ,3 ,2020-04-21
+201,Georgia,Pierce,51 ,2 ,2020-04-21
+202,Georgia,Glynn,49 ,0 ,2020-04-21
+203,Georgia,Meriwether,47 ,0 ,2020-04-21
+204,Georgia,Whitfield,46 ,4 ,2020-04-21
+205,Georgia,Dawson,45 ,1 ,2020-04-21
+206,Georgia,Greene,45 ,1 ,2020-04-21
+207,Georgia,Wilcox,45 ,5 ,2020-04-21
+208,Georgia,Harris,44 ,2 ,2020-04-21
+209,Georgia,Laurens,43 ,1 ,2020-04-21
+210,Georgia,Stephens,41 ,1 ,2020-04-21
+211,Georgia,Mcduffie,37 ,3 ,2020-04-21
+212,Georgia,Polk,36 ,0 ,2020-04-21
+213,Georgia,Peach,35 ,2 ,2020-04-21
+214,Georgia,Bryan,34 ,2 ,2020-04-21
+215,Georgia,Grady,34 ,1 ,2020-04-21
+216,Georgia,Johnson,34 ,1 ,2020-04-21
+217,Georgia,Liberty,34 ,0 ,2020-04-21
+218,Georgia,Oglethorpe,34 ,3 ,2020-04-21
+219,Georgia,Pike,34 ,2 ,2020-04-21
+220,Georgia,Bulloch,31 ,2 ,2020-04-21
+221,Georgia,White,31 ,0 ,2020-04-21
+222,Georgia,Brooks,30 ,6 ,2020-04-21
+223,Georgia,Effingham,29 ,1 ,2020-04-21
+224,Georgia,Lamar,29 ,0 ,2020-04-21
+225,Georgia,Marion,29 ,1 ,2020-04-21
+226,Georgia,Walker,28 ,0 ,2020-04-21
+227,Georgia,Camden,27 ,0 ,2020-04-21
+228,Georgia,Catoosa,26 ,0 ,2020-04-21
+229,Georgia,Putnam,26 ,2 ,2020-04-21
+230,Georgia,Lumpkin,25 ,0 ,2020-04-21
+231,Georgia,Seminole,25 ,2 ,2020-04-21
+232,Georgia,Washington,25 ,1 ,2020-04-21
+233,Georgia,Haralson,23 ,1 ,2020-04-21
+234,Georgia,Miller,23 ,0 ,2020-04-21
+235,Georgia,Morgan,22 ,0 ,2020-04-21
+236,Georgia,Wilkinson,22 ,2 ,2020-04-21
+237,Georgia,Appling,21 ,0 ,2020-04-21
+238,Georgia,Baker,20 ,2 ,2020-04-21
+239,Georgia,Brantley,20 ,2 ,2020-04-21
+240,Georgia,Clay,20 ,2 ,2020-04-21
+241,Georgia,Jones,20 ,0 ,2020-04-21
+242,Georgia,Talbot,20 ,1 ,2020-04-21
+243,Georgia,Toombs,20 ,3 ,2020-04-21
+244,Georgia,Bacon,19 ,1 ,2020-04-21
+245,Georgia,Ben Hill,19 ,0 ,2020-04-21
+246,Georgia,Dodge,19 ,0 ,2020-04-21
+247,Georgia,Fannin,19 ,1 ,2020-04-21
+248,Georgia,Murray,19 ,0 ,2020-04-21
+249,Georgia,Wilkes,19 ,0 ,2020-04-21
+250,Georgia,Gilmer,18 ,0 ,2020-04-21
+251,Georgia,Pickens,18 ,2 ,2020-04-21
+252,Georgia,Jasper,17 ,0 ,2020-04-21
+253,Georgia,Pulaski,17 ,1 ,2020-04-21
+254,Georgia,Stewart,17 ,0 ,2020-04-21
+255,Georgia,Madison,16 ,1 ,2020-04-21
+256,Georgia,Schley,16 ,1 ,2020-04-21
+257,Georgia,Banks,15 ,0 ,2020-04-21
+258,Georgia,Irwin,15 ,0 ,2020-04-21
+259,Georgia,Monroe,15 ,1 ,2020-04-21
+260,Georgia,Telfair,15 ,0 ,2020-04-21
+261,Georgia,Towns,15 ,0 ,2020-04-21
+262,Georgia,Union,15 ,1 ,2020-04-21
+263,Georgia,Crawford,14 ,0 ,2020-04-21
+264,Georgia,Emanuel,14 ,0 ,2020-04-21
+265,Georgia,Cook,13 ,1 ,2020-04-21
+266,Georgia,Jenkins,13 ,1 ,2020-04-21
+267,Georgia,Taylor,13 ,2 ,2020-04-21
+268,Georgia,Dade,12 ,1 ,2020-04-21
+269,Georgia,Franklin,12 ,0 ,2020-04-21
+270,Georgia,Screven,12 ,1 ,2020-04-21
+271,Georgia,Jefferson,11 ,1 ,2020-04-21
+272,Georgia,Berrien,10 ,0 ,2020-04-21
+273,Georgia,Chattooga,10 ,1 ,2020-04-21
+274,Georgia,Hancock,10 ,0 ,2020-04-21
+275,Georgia,Warren,10 ,0 ,2020-04-21
+276,Georgia,Lincoln,9 ,0 ,2020-04-21
+277,Georgia,Wayne,9 ,0 ,2020-04-21
+278,Georgia,Rabun,8 ,0 ,2020-04-21
+279,Georgia,Candler,7 ,0 ,2020-04-21
+280,Georgia,Charlton,7 ,0 ,2020-04-21
+281,Georgia,Chattahoochee,7 ,0 ,2020-04-21
+282,Georgia,Clinch,7 ,0 ,2020-04-21
+283,Georgia,Elbert,7 ,0 ,2020-04-21
+284,Georgia,Heard,7 ,1 ,2020-04-21
+285,Georgia,Jeff Davis,7 ,1 ,2020-04-21
+286,Georgia,Lanier,7 ,1 ,2020-04-21
+287,Georgia,Webster,7 ,0 ,2020-04-21
+288,Georgia,Hart,6 ,0 ,2020-04-21
+289,Georgia,Atkinson,5 ,0 ,2020-04-21
+290,Georgia,Bleckley,5 ,0 ,2020-04-21
+291,Georgia,Tattnall,5 ,0 ,2020-04-21
+292,Georgia,Echols,4 ,0 ,2020-04-21
+293,Georgia,Evans,4 ,0 ,2020-04-21
+294,Georgia,Mcintosh,4 ,0 ,2020-04-21
+295,Georgia,Twiggs,4 ,0 ,2020-04-21
+296,Georgia,Quitman,3 ,1 ,2020-04-21
+297,Georgia,Wheeler,3 ,0 ,2020-04-21
+298,Georgia,Long,2 ,0 ,2020-04-21
+299,Georgia,Montgomery,2 ,0 ,2020-04-21
+300,Georgia,Treutlen,2 ,0 ,2020-04-21
+301,Georgia,Unknown,470 ,0 ,2020-04-21
+302,Georgia,Non-Georgia Resident,970 ,7 ,2020-04-21
+303,New Hampshire,Belknap,26,0,2020-04-21
+304,New Hampshire,Carroll,30,0,2020-04-21
+305,New Hampshire,Cheshire,30,0,2020-04-21
+306,New Hampshire,Coos,2,0,2020-04-21
+307,New Hampshire,Grafton,45,0,2020-04-21
+308,New Hampshire,Hillsborough - Other,197,0,2020-04-21
+309,New Hampshire,Hillsborough - Manchester,272,0,2020-04-21
+310,New Hampshire,Hillsborough - Nashua,135,0,2020-04-21
+311,New Hampshire,Merrimack,96,0,2020-04-21
+312,New Hampshire,Rockingham,489,0,2020-04-21
+313,New Hampshire,Strafford,111,0,2020-04-21
+314,New Hampshire,Sullivan,10,0,2020-04-21
+315,New Hampshire,County TBA,4,0,2020-04-21
+316,New Jersey,Bergen County, 13 011,787,2020-04-21
+317,New Jersey,Hudson County, 11 150,492,2020-04-21
+318,New Jersey,Essex County, 10 729,751,2020-04-21
+319,New Jersey,Union County, 9 972,387,2020-04-21
+320,New Jersey,Passaic County, 8 479,263,2020-04-21
+321,New Jersey,Middlesex County, 8 346,345,2020-04-21
+322,New Jersey,Ocean County, 4 868,222,2020-04-21
+323,New Jersey,Monmouth County, 4 787,230,2020-04-21
+324,New Jersey,Morris County, 4 236,269,2020-04-21
+325,New Jersey,Mercer County, 2 591,122,2020-04-21
+326,New Jersey,Somerset County, 2 488,170,2020-04-21
+327,New Jersey,Camden County, 2 255,81,2020-04-21
+328,New Jersey,Burlington County, 1 663,61,2020-04-21
+329,New Jersey,Gloucester County, 770,25,2020-04-21
+330,New Jersey,Sussex County, 680,64,2020-04-21
+331,New Jersey,Warren County, 613,47,2020-04-21
+332,New Jersey,Hunterdon County, 419,18,2020-04-21
+333,New Jersey,Atlantic County, 410,19,2020-04-21
+334,New Jersey,Cumberland County, 338,4,2020-04-21
+335,New Jersey,Cape May County, 212,15,2020-04-21
+336,New Mexico,Bernalillo, 566, 24,2020-04-21
+337,New Mexico,Catron, 1, 0,2020-04-21
+338,New Mexico,Chaves, 21, 0,2020-04-21
+339,New Mexico,Cibola, 33, 2,2020-04-21
+340,New Mexico,Colfax, 5, 0,2020-04-21
+341,New Mexico,Curry, 10, 0,2020-04-21
+342,New Mexico,De Baca, 0, 0,2020-04-21
+343,New Mexico,Doña Ana, 73, 1,2020-04-21
+344,New Mexico,Eddy, 10, 1,2020-04-21
+345,New Mexico,Grant, 14, 0,2020-04-21
+346,New Mexico,Guadalupe, 1, 0,2020-04-21
+347,New Mexico,Harding, 0, 0,2020-04-21
+348,New Mexico,Hidalgo, 0, 0,2020-04-21
+349,New Mexico,Lea, 2, 0,2020-04-21
+350,New Mexico,Lincoln, 1, 0,2020-04-21
+351,New Mexico,Los Alamos, 6, 0,2020-04-21
+352,New Mexico,Luna, 3, 0,2020-04-21
+353,New Mexico,McKinley, 416, 5,2020-04-21
+354,New Mexico,Mora, 0, 0,2020-04-21
+355,New Mexico,Otero, 3, 0,2020-04-21
+356,New Mexico,Quay, 3, 1,2020-04-21
+357,New Mexico,Rio Arriba, 11, 0,2020-04-21
+358,New Mexico,Roosevelt, 1, 0,2020-04-21
+359,New Mexico,Sandoval, 317, 6,2020-04-21
+360,New Mexico,San Juan, 293, 17,2020-04-21
+361,New Mexico,San Miguel, 2, 0,2020-04-21
+362,New Mexico,Santa Fe, 86, 0,2020-04-21
+363,New Mexico,Sierra, 0, 0,2020-04-21
+364,New Mexico,Socorro, 31, 1,2020-04-21
+365,New Mexico,Taos, 16, 0,2020-04-21
+366,New Mexico,Torrance, 13, 0,2020-04-21
+367,New Mexico,Union, 0, 0,2020-04-21
+368,New Mexico,Valencia, 33, 0,2020-04-21
+369,North Carolina,Alamance County,52,0,2020-04-21
+370,North Carolina,Alexander County,3,0,2020-04-21
+371,North Carolina,Alleghany County,2,0,2020-04-21
+372,North Carolina,Anson County,18,0,2020-04-21
+373,North Carolina,Ashe County,4,0,2020-04-21
+374,North Carolina,Beaufort County,15,0,2020-04-21
+375,North Carolina,Bertie County,24,1,2020-04-21
+376,North Carolina,Bladen County,4,0,2020-04-21
+377,North Carolina,Brunswick County,37,2,2020-04-21
+378,North Carolina,Buncombe County,46,3,2020-04-21
+379,North Carolina,Burke County,75,8,2020-04-21
+380,North Carolina,Cabarrus County,216,5,2020-04-21
+381,North Carolina,Caldwell County,23,0,2020-04-21
+382,North Carolina,Carteret County,21,2,2020-04-21
+383,North Carolina,Caswell County,8,0,2020-04-21
+384,North Carolina,Catawba County,43,1,2020-04-21
+385,North Carolina,Chatham County,131,1,2020-04-21
+386,North Carolina,Cherokee County,14,1,2020-04-21
+387,North Carolina,Chowan County,6,0,2020-04-21
+388,North Carolina,Clay County,5,0,2020-04-21
+389,North Carolina,Cleveland County,44,1,2020-04-21
+390,North Carolina,Columbus County,61,3,2020-04-21
+391,North Carolina,Craven County,36,3,2020-04-21
+392,North Carolina,Cumberland County,127,6,2020-04-21
+393,North Carolina,Currituck County,2,0,2020-04-21
+394,North Carolina,Dare County,11,1,2020-04-21
+395,North Carolina,Davidson County,96,2,2020-04-21
+396,North Carolina,Davie County,24,2,2020-04-21
+397,North Carolina,Duplin County,32,0,2020-04-21
+398,North Carolina,Durham County,398,4,2020-04-21
+399,North Carolina,Edgecombe County,57,1,2020-04-21
+400,North Carolina,Forsyth County,128,5,2020-04-21
+401,North Carolina,Franklin County,74,11,2020-04-21
+402,North Carolina,Gaston County,118,3,2020-04-21
+403,North Carolina,Gates County,4,0,2020-04-21
+404,North Carolina,Granville County,114,5,2020-04-21
+405,North Carolina,Greene County,14,0,2020-04-21
+406,North Carolina,Guilford County,190,14,2020-04-21
+407,North Carolina,Halifax County,33,1,2020-04-21
+408,North Carolina,Harnett County,62,5,2020-04-21
+409,North Carolina,Haywood County,5,0,2020-04-21
+410,North Carolina,Henderson County,129,13,2020-04-21
+411,North Carolina,Hertford County,10,1,2020-04-21
+412,North Carolina,Hoke County,25,0,2020-04-21
+413,North Carolina,Iredell County,86,2,2020-04-21
+414,North Carolina,Jackson County,3,0,2020-04-21
+415,North Carolina,Johnston County,122,8,2020-04-21
+416,North Carolina,Jones County,9,1,2020-04-21
+417,North Carolina,Lee County,44,0,2020-04-21
+418,North Carolina,Lenoir County,26,0,2020-04-21
+419,North Carolina,Lincoln County,21,0,2020-04-21
+420,North Carolina,Macon County,2,1,2020-04-21
+421,North Carolina,Martin County,11,0,2020-04-21
+422,North Carolina,McDowell County,20,0,2020-04-21
+423,North Carolina,Mecklenburg County,"1,245",31,2020-04-21
+424,North Carolina,Mitchell County,5,0,2020-04-21
+425,North Carolina,Montgomery County,18,1,2020-04-21
+426,North Carolina,Moore County,67,2,2020-04-21
+427,North Carolina,Nash County,63,1,2020-04-21
+428,North Carolina,New Hanover County,62,1,2020-04-21
+429,North Carolina,Northampton County,73,2,2020-04-21
+430,North Carolina,Onslow County,33,1,2020-04-21
+431,North Carolina,Orange County,189,3,2020-04-21
+432,North Carolina,Pamlico County,6,0,2020-04-21
+433,North Carolina,Pasquotank County,32,1,2020-04-21
+434,North Carolina,Pender County,9,0,2020-04-21
+435,North Carolina,Perquimans County,8,0,2020-04-21
+436,North Carolina,Person County,18,0,2020-04-21
+437,North Carolina,Pitt County,96,1,2020-04-21
+438,North Carolina,Polk County,10,0,2020-04-21
+439,North Carolina,Randolph County,78,2,2020-04-21
+440,North Carolina,Richmond County,20,2,2020-04-21
+441,North Carolina,Robeson County,28,0,2020-04-21
+442,North Carolina,Rockingham County,20,2,2020-04-21
+443,North Carolina,Rowan County,254,13,2020-04-21
+444,North Carolina,Rutherford County,80,3,2020-04-21
+445,North Carolina,Sampson County,21,0,2020-04-21
+446,North Carolina,Scotland County,13,0,2020-04-21
+447,North Carolina,Stanly County,21,3,2020-04-21
+448,North Carolina,Stokes County,10,0,2020-04-21
+449,North Carolina,Surry County,12,0,2020-04-21
+450,North Carolina,Transylvania County,7,0,2020-04-21
+451,North Carolina,Tyrrell County,4,0,2020-04-21
+452,North Carolina,Union County,171,5,2020-04-21
+453,North Carolina,Vance County,34,1,2020-04-21
+454,North Carolina,Wake County,611,8,2020-04-21
+455,North Carolina,Warren County,3,0,2020-04-21
+456,North Carolina,Washington County,22,2,2020-04-21
+457,North Carolina,Watauga County,8,0,2020-04-21
+458,North Carolina,Wayne County,581,5,2020-04-21
+459,North Carolina,Wilkes County,5,1,2020-04-21
+460,North Carolina,Wilson County,118,4,2020-04-21
+461,North Carolina,Yadkin County,11,1,2020-04-21
